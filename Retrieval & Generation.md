@@ -39,5 +39,5 @@
 ## 結論
 生成式資訊檢索結合了檢索與生成技術，能夠有效地回答用戶的問題，並提供準確的資訊。這項技術在各個領域中都有廣泛的應用潛力。
 
-![總結圖](Images/1.png)
+![總結圖](https://github.com/greengarden0925/LLMtutorial/blob/main/Images/1.png)
 
